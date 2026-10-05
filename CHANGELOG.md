@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Fix truncated Preferences labels by placing checkboxes before their text and using the full available row width.
+
 ## 0.1.0
 
 - Package the editor extensions for installation from a Git URL through Unity Package Manager.

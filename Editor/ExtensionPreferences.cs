@@ -27,7 +27,7 @@ namespace ExtensionsForAnimationWondows
 
         private static void Toggle(string label, string name, bool current)
         {
-            bool value = EditorGUILayout.Toggle(label, current);
+            bool value = EditorGUILayout.ToggleLeft(label, current);
             if (value != current)
                 EditorPrefs.SetBool(Prefix + name, value);
         }

@@ -17,15 +17,15 @@ No runtime components are required. Extensions install automatically after the e
 In Unity, open **Window → Package Management → Package Manager**, choose **Install package from Git URL** (the `+` / Add menu), and paste:
 
 ```text
-https://github.com/glebster51/unity-animation-timeline-extensions.git#v0.1.0
+https://github.com/glebster51/unity-animation-timeline-extensions.git#v0.1.1
 ```
 
-The version tag keeps your project on a reproducible release. To follow the latest changes instead, use the same URL without `#v0.1.0`.
+The version tag keeps your project on a reproducible release. To follow the latest changes instead, use the same URL without `#v0.1.1`.
 
 Alternatively, add this entry to your project's `Packages/manifest.json` dependencies:
 
 ```json
-"com.glebster51.extensions-for-animation-windows": "https://github.com/glebster51/unity-animation-timeline-extensions.git#v0.1.0"
+"com.glebster51.extensions-for-animation-windows": "https://github.com/glebster51/unity-animation-timeline-extensions.git#v0.1.1"
 ```
 
 Unity needs Git installed for Git-based packages. See the [official Unity Git URL installation guide](https://docs.unity3d.com/6000.0/Documentation/Manual/upm-ui-giturl.html).

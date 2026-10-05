@@ -1,6 +1,6 @@
 {
   "name": "com.glebster51.extensions-for-animation-windows",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Animation & Timeline Window Extensions",
   "description": "Copy and apply animation preview poses in Unity Animation and Timeline windows. Select scene GameObjects from Timeline-linked animation rows and keys.",
   "unity": "6000.6",
