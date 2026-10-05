@@ -1,0 +1,32 @@
+{
+  "name": "com.glebster51.extensions-for-animation-windows",
+  "version": "0.1.0",
+  "displayName": "Animation & Timeline Window Extensions",
+  "description": "Copy and apply animation preview poses in Unity Animation and Timeline windows. Select scene GameObjects from Timeline-linked animation rows and keys.",
+  "unity": "6000.6",
+  "unityRelease": "1f1",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.timeline": "6.6.0"
+  },
+  "keywords": [
+    "animation",
+    "timeline",
+    "editor",
+    "pose",
+    "copy-state",
+    "scene-selection",
+    "upm"
+  ],
+  "author": {
+    "name": "glebster51",
+    "url": "https://github.com/glebster51"
+  },
+  "documentationUrl": "https://github.com/glebster51/unity-animation-timeline-extensions#readme",
+  "changelogUrl": "https://github.com/glebster51/unity-animation-timeline-extensions/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/glebster51/unity-animation-timeline-extensions/blob/main/LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glebster51/unity-animation-timeline-extensions.git"
+  }
+}

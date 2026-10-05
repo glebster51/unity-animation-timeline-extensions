@@ -1,0 +1,14 @@
+{
+  "name": "ExtensionsForAnimationWondows.Editor",
+  "rootNamespace": "ExtensionsForAnimationWondows",
+  "references": [
+    "Unity.Timeline",
+    "Unity.Timeline.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "noEngineReferences": false
+}
